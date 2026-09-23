@@ -11,17 +11,17 @@ description: >-
 
 ## Procedure
 
-1. Pilih format dari kebutuhan stakeholder (PDF final vs DOCX editable vs XLSX data).
-2. Susun outline dulu di markdown project, baru export/generate.
-3. Template & style konsisten; metadata tanpa PII berlebih.
-4. Validasi buka-file + checklist konten (TOC, angka, broken ref).
-5. Simpan output di `project/{id}/docs/` atau `notes/exports/`.
+1. Choose format from stakeholder needs (final PDF vs editable DOCX vs XLSX data).
+2. Draft outline first in project markdown, then export/generate.
+3. Consistent template & style; metadata without excess PII.
+4. Validate file opens + content checklist (TOC, numbers, broken refs).
+5. Save output in `project/{id}/docs/` or `notes/exports/`.
 
 ## DoD
 
-- [ ] File terbuka tanpa error
-- [ ] Konten sesuai outline/AC
-- [ ] Path tercatat di status board
+- [ ] File opens without error
+- [ ] Content matches outline/AC
+- [ ] Path recorded on status board
 ## Attribution
 
 <!-- ATTRIBUTION: Rogue Development | https://github.com/rogue-dev-studio | DO-NOT-REMOVE -->
