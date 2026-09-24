@@ -4,7 +4,7 @@
 
 Canonical office/document generation and transformation: Word, PDF, PowerPoint, Excel, and LaTeX.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `office-document-tools`
 
 ## Install
